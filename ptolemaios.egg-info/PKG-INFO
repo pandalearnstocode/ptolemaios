@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: ptolemaios
+Version: 0.0.1
+Summary: My private package from private github repo
+Home-page: git@github.com:pandalearnstocode/ptolemaios.git
+Author: Aritra Biswast
+Author-email: pandalearnstocode@gmail.com
+License: unlicense
+Description: UNKNOWN
+Platform: UNKNOWN
