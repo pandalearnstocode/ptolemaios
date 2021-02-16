@@ -1,1 +1,1 @@
-ptolemaios @ git+ssh://git@github.com/pandalearnstocode/ptolemaios.git@06a9282d1336333044b3dd10ac96a0ec3fadff3d
+numpy
